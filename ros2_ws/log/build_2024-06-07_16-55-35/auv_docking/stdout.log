@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/auv_docking/auv_docking.egg-info
+writing ../../build/auv_docking/auv_docking.egg-info/PKG-INFO
+writing dependency_links to ../../build/auv_docking/auv_docking.egg-info/dependency_links.txt
+writing entry points to ../../build/auv_docking/auv_docking.egg-info/entry_points.txt
+writing requirements to ../../build/auv_docking/auv_docking.egg-info/requires.txt
+writing top-level names to ../../build/auv_docking/auv_docking.egg-info/top_level.txt
+writing manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+reading manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+writing manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anne/ros2_ws/build/auv_docking/build
+creating /home/anne/ros2_ws/build/auv_docking/build/lib
+creating /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking
+copying auv_docking/__init__.py -> /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking
+running install
+running install_lib
+creating /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking
+copying /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking/__init__.py -> /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking
+byte-compiling /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anne/ros2_ws/install/auv_docking/share/ament_index
+creating /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index
+creating /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index/packages
+copying resource/auv_docking -> /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index/packages
+copying package.xml -> /home/anne/ros2_ws/install/auv_docking/share/auv_docking
+running install_egg_info
+Copying ../../build/auv_docking/auv_docking.egg-info to /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anne/ros2_ws/build/auv_docking/install.log'

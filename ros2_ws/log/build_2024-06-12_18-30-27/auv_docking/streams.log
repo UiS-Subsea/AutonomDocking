@@ -1,0 +1,25 @@
+[0.354s] Invoking command in '/home/anne/ros2_ws/build/auv_docking': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/anne/ros2_ws/build/auv_docking/build --no-deps symlink_data --force
+[0.514s] running develop
+[0.514s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.514s]   warnings.warn(
+[0.603s] running egg_info
+[0.603s] writing auv_docking.egg-info/PKG-INFO
+[0.603s] writing dependency_links to auv_docking.egg-info/dependency_links.txt
+[0.604s] writing entry points to auv_docking.egg-info/entry_points.txt
+[0.604s] writing requirements to auv_docking.egg-info/requires.txt
+[0.604s] writing top-level names to auv_docking.egg-info/top_level.txt
+[0.605s] reading manifest file 'auv_docking.egg-info/SOURCES.txt'
+[0.605s] writing manifest file 'auv_docking.egg-info/SOURCES.txt'
+[0.606s] running build_ext
+[0.606s] Creating /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv-docking.egg-link (link to .)
+[0.607s] Installing aruco_handler script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.607s] Installing aruco_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.607s] Installing camera_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.607s] Installing navigation_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.607s] Installing test_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.607s] 
+[0.607s] Installed /home/anne/ros2_ws/build/auv_docking
+[0.607s] running symlink_data
+[0.607s] symbolically linking /home/anne/ros2_ws/build/auv_docking/resource/auv_docking -> /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index/packages
+[0.607s] symbolically linking /home/anne/ros2_ws/build/auv_docking/package.xml -> /home/anne/ros2_ws/install/auv_docking/share/auv_docking
+[0.626s] Invoked command in '/home/anne/ros2_ws/build/auv_docking' returned '0': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/anne/ros2_ws/build/auv_docking/build --no-deps symlink_data --force

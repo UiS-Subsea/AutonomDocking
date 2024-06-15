@@ -1,0 +1,8 @@
+[console_scripts]
+aruco_handler = auv_docking.aruco_handler:main
+camera_handler = auv_docking.camera_handler:main
+camera_node = auv_docking.camera_node:main
+image_handler = auv_docking.image_handler:main
+navigation_node = auv_docking.navigation_node:main
+test_node = auv_docking.test_node:main
+

@@ -1,0 +1,23 @@
+[0.351s] Invoking command in '/home/anne/ros2_ws/src/auv_docking': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/auv_docking build --build-base /home/anne/ros2_ws/build/auv_docking/build install --record /home/anne/ros2_ws/build/auv_docking/install.log --single-version-externally-managed install_data
+[0.485s] running egg_info
+[0.485s] writing ../../build/auv_docking/auv_docking.egg-info/PKG-INFO
+[0.485s] writing dependency_links to ../../build/auv_docking/auv_docking.egg-info/dependency_links.txt
+[0.486s] writing entry points to ../../build/auv_docking/auv_docking.egg-info/entry_points.txt
+[0.486s] writing requirements to ../../build/auv_docking/auv_docking.egg-info/requires.txt
+[0.486s] writing top-level names to ../../build/auv_docking/auv_docking.egg-info/top_level.txt
+[0.487s] reading manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+[0.487s] writing manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+[0.487s] running build
+[0.487s] running build_py
+[0.488s] running install
+[0.488s] running install_lib
+[0.489s] running install_data
+[0.489s] copying package.xml -> /home/anne/ros2_ws/install/auv_docking/share/auv_docking
+[0.489s] running install_egg_info
+[0.490s] removing '/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking-0.0.0-py3.10.egg-info' (and everything under it)
+[0.490s] Copying ../../build/auv_docking/auv_docking.egg-info to /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking-0.0.0-py3.10.egg-info
+[0.490s] running install_scripts
+[0.503s] Installing aruco_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.503s] Installing test_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+[0.503s] writing list of installed files to '/home/anne/ros2_ws/build/auv_docking/install.log'
+[0.518s] Invoked command in '/home/anne/ros2_ws/src/auv_docking' returned '0': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/auv_docking build --build-base /home/anne/ros2_ws/build/auv_docking/build install --record /home/anne/ros2_ws/build/auv_docking/install.log --single-version-externally-managed install_data

@@ -1,0 +1,5 @@
+  File "/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking/aruco_node.py", line 91
+    corners, ids, rejected = cv2.aruco.drawDetectedMarkers(image:)
+                                                                ^
+SyntaxError: invalid syntax
+
