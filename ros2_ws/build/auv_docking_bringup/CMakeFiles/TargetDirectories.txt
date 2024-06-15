@@ -1,9 +1,0 @@
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/uninstall.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/auv_docking_bringup_uninstall.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/test.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/edit_cache.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/rebuild_cache.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/list_install_components.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/install.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/install/local.dir
-/home/anne/ros2_ws/build/auv_docking_bringup/CMakeFiles/install/strip.dir
