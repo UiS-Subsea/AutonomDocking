@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing auv_docking.egg-info/PKG-INFO
+writing dependency_links to auv_docking.egg-info/dependency_links.txt
+writing entry points to auv_docking.egg-info/entry_points.txt
+writing requirements to auv_docking.egg-info/requires.txt
+writing top-level names to auv_docking.egg-info/top_level.txt
+reading manifest file 'auv_docking.egg-info/SOURCES.txt'
+writing manifest file 'auv_docking.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv-docking.egg-link (link to .)
+Installing aruco_handler script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+Installing aruco_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+Installing camera_handler script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+Installing camera_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+Installing navigation_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+Installing test_node script to /home/anne/ros2_ws/install/auv_docking/lib/auv_docking
+
+Installed /home/anne/ros2_ws/build/auv_docking
+running symlink_data

@@ -1,0 +1,33 @@
+[0.362s] Invoking command in '/home/anne/ros2_ws/src/auv_docking': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/auv_docking build --build-base /home/anne/ros2_ws/build/auv_docking/build install --record /home/anne/ros2_ws/build/auv_docking/install.log --single-version-externally-managed install_data
+[0.501s] running egg_info
+[0.502s] creating ../../build/auv_docking/auv_docking.egg-info
+[0.502s] writing ../../build/auv_docking/auv_docking.egg-info/PKG-INFO
+[0.502s] writing dependency_links to ../../build/auv_docking/auv_docking.egg-info/dependency_links.txt
+[0.502s] writing entry points to ../../build/auv_docking/auv_docking.egg-info/entry_points.txt
+[0.502s] writing requirements to ../../build/auv_docking/auv_docking.egg-info/requires.txt
+[0.502s] writing top-level names to ../../build/auv_docking/auv_docking.egg-info/top_level.txt
+[0.502s] writing manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+[0.503s] reading manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+[0.503s] writing manifest file '../../build/auv_docking/auv_docking.egg-info/SOURCES.txt'
+[0.503s] running build
+[0.504s] running build_py
+[0.504s] creating /home/anne/ros2_ws/build/auv_docking/build
+[0.504s] creating /home/anne/ros2_ws/build/auv_docking/build/lib
+[0.504s] creating /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking
+[0.504s] copying auv_docking/__init__.py -> /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking
+[0.504s] running install
+[0.504s] running install_lib
+[0.504s] creating /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking
+[0.504s] copying /home/anne/ros2_ws/build/auv_docking/build/lib/auv_docking/__init__.py -> /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking
+[0.505s] byte-compiling /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking/__init__.py to __init__.cpython-310.pyc
+[0.505s] running install_data
+[0.505s] creating /home/anne/ros2_ws/install/auv_docking/share/ament_index
+[0.505s] creating /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index
+[0.505s] creating /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index/packages
+[0.505s] copying resource/auv_docking -> /home/anne/ros2_ws/install/auv_docking/share/ament_index/resource_index/packages
+[0.505s] copying package.xml -> /home/anne/ros2_ws/install/auv_docking/share/auv_docking
+[0.505s] running install_egg_info
+[0.506s] Copying ../../build/auv_docking/auv_docking.egg-info to /home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages/auv_docking-0.0.0-py3.10.egg-info
+[0.506s] running install_scripts
+[0.520s] writing list of installed files to '/home/anne/ros2_ws/build/auv_docking/install.log'
+[0.536s] Invoked command in '/home/anne/ros2_ws/src/auv_docking' returned '0': PYTHONPATH=/home/anne/ros2_ws/build/auv_docking/prefix_override:/home/anne/ros2_ws/install/auv_docking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/auv_docking build --build-base /home/anne/ros2_ws/build/auv_docking/build install --record /home/anne/ros2_ws/build/auv_docking/install.log --single-version-externally-managed install_data
