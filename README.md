@@ -1,4 +1,4 @@
-# UIS SUBSEA - Autonomus Docking - 2024 #
+# UiS Subsea - Autonomus Docking 2024 #
 
 ### Requirements for running files: ###
 
