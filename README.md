@@ -10,7 +10,7 @@
 
 ### Filer og mapper ###
 
-**a_docking**: Inneholder kode for autonom docking før implementering i ROS2
+**a_docking**: Inneholder kode for autonom dokking før implementering i ROS2
 
 **ros2_ws:** Inneholder implementert kode i ROS2
 
